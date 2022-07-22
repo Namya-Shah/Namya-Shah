@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Namya-Shah
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Artificial Intelligence, Web Development and Android Development
+- 🌱 I’m currently learning Python, Web Dev, Kotlin
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me
 My LinkedIn profile: https://www.linkedin.com/in/namya-shah-94ab5363/
