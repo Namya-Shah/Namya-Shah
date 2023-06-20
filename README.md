@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Namya-Shah](https://github.com/Namya-Shah)
 
-- 📝 I regularly write articles on [https://medium.com/@namya.shah123](https://medium.com/@namya.shah123)
+- 📝 I regularly write articles on [BigSmoke's Blogs](bigsmoke.hashnode.dev)
 
 - 💬 Ask me about **python, html, css, kotlin, git**
 
